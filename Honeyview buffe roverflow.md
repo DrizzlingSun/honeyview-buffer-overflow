@@ -30,5 +30,5 @@ POC attack effect
 
 Finally, you can write exp, which can achieve a very stable effect of obtaining the root shell.
 
-## Exploit Author
+## Author
 Drizzling_Sun @KRlab
